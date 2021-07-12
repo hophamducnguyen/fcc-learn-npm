@@ -10,6 +10,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:hophamducnguyen/fcc-npm.git"
+		"url": "https://github.com/hophamducnguyen/fcc-learn-npm.git"
 	}
 }
